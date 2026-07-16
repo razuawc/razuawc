@@ -101,7 +101,55 @@ I build scalable web apps, automation systems, and mobile applications — focus
 
 ---
 <div align="center">
-  
+
+<h2 align="center">⚙️ Tech Supporter</h2>
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,html,css,bash" />
+
+<br>
+
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs,flutter,tailwind,bootstrap,nodejs" />
+
+<br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase" />
+
+<br>
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,nginx,azure,aws" />
+
+<br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma,androidstudio,powershell" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Let's build together" />
+</p>
+
+<p align="center" style="font-size: 18px; font-weight: 600; color:#00F7FF;">
+  🚀 Let's build something amazing together!
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Let's Build Something Amazing Together
+
+</div>
+
+
 ## 🤝 **Connect With Me**
 
 <div align="center">
